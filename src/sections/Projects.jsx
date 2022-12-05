@@ -40,6 +40,9 @@ export default function Projects() {
 
               <button className="bg-yellow-100 p-5 rounded-lg dark:bg-slate-800" onClick={() => setOpen2(true)}>View Document</button>
               {open2 && <Window title="Project 2" path={project2} close={setOpen2} />}
+              <video width="100%" height="100%">
+                <source />
+              </video>
             </div>
           </li>
           <li>
