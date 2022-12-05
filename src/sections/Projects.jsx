@@ -25,7 +25,7 @@ export default function Projects() {
         <li>
             <div className="w-full h-96 bg-gradient-to-r from-orange-300 to-red-300 dark:bg-gradient-to-r dark:from-zinc-700 dark:to-gray-700 rounded-xl my-12">
               <h1 className="text-xl p-8">Project 1: Instructions</h1>
-              <p className="p-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis massa dui, porttitor fringilla quam auctor nec. Curabitur elementum, ipsum quis aliquet ullamcorper, turpis lectus viverra turpis, ut mattis lorem orci sit amet justo. Nullam elementum bibendum lacus, non ullamcorper nulla interdum malesuada. Mauris justo sem, volutpat quis molestie non, auctor ut est. Pellentesque pharetra quis augue eu convallis. Aenean a scelerisque nunc. Donec nec bibendum elit. Maecenas ut tristique libero, sed molestie tellus. Donec sed diam metus.</p>
+              <p className="p-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis massa dui, porttitor fringilla quam auctor nec. Curabitur elementum, ipsum quis aliquet ullamcorper, turpis lectus viverra turpis, ut mattis lorem orci sit amet justo. Nullam elementum bibendum lacus, non ullamcorper nulla interdum malesuada. Mauris justo sem, volutpat quis molestie non, auctor ut est. Pellentesque pharetra quis augue eu convallis. Aenean a scelerisque nunc. Donec nec bibendum elit. Maecenas ut tristique libero, sed molestie tellus. Donec sed diam metus. This is a change. See if this works</p>
 
 
               <button className="bg-yellow-100 p-5 rounded-lg dark:bg-slate-800" onClick={() => setOpen(true)}>View Document</button>
