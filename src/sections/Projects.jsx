@@ -25,7 +25,7 @@ export default function Projects() {
         <li>
             <div className="w-full h-96 bg-gradient-to-r from-orange-300 to-red-300 dark:bg-gradient-to-r dark:from-zinc-700 dark:to-gray-700 rounded-xl my-12">
               <h1 className="text-xl p-8">Project 1: Instructions</h1>
-              <p className="p-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis massa dui, porttitor fringilla quam auctor nec. Curabitur elementum, ipsum quis aliquet ullamcorper, turpis lectus viverra turpis, ut mattis lorem orci sit amet justo. Nullam elementum bibendum lacus, non ullamcorper nulla interdum malesuada. Mauris justo sem, volutpat quis molestie non, auctor ut est. Pellentesque pharetra quis augue eu convallis. Aenean a scelerisque nunc. Donec nec bibendum elit. Maecenas ut tristique libero, sed molestie tellus. Donec sed diam metus. This is a change. See if this works</p>
+              <p className="p-6">In this assignment, I learned about the importance of organization and structuring of elements within a document. I had to take in mind how a reader reads and follows along a document. This means that the order and design of the instructions had to be careefully considered.</p>
 
 
               <button className="bg-yellow-100 p-5 rounded-lg dark:bg-slate-800" onClick={() => setOpen(true)}>View Document</button>
@@ -35,7 +35,7 @@ export default function Projects() {
           <li>
             <div className="w-full h-96 bg-gradient-to-r from-orange-300 to-red-300 dark:bg-gradient-to-r dark:from-zinc-700 dark:to-gray-700 rounded-xl my-12">
               <h1 className="text-xl p-8">Project 2: Resume, Cover Letter, and Mini Interview</h1>
-              <p className="p-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis massa dui, porttitor fringilla quam auctor nec. Curabitur elementum, ipsum quis aliquet ullamcorper, turpis lectus viverra turpis, ut mattis lorem orci sit amet justo. Nullam elementum bibendum lacus, non ullamcorper nulla interdum malesuada. Mauris justo sem, volutpat quis molestie non, auctor ut est. Pellentesque pharetra quis augue eu convallis. Aenean a scelerisque nunc. Donec nec bibendum elit. Maecenas ut tristique libero, sed molestie tellus. Donec sed diam metus.</p>
+              <p className="p-6">This assignment was about professionalism in the workplace, and was more relevant to applications and interviews. During the time of making this project, I embarked on my job hunt for my first internship. Thus, this project was a greate opportunity to learn about the importance of font-size and color within documents. And of course, I eventually got my first internship!</p>
 
 
               <button className="bg-yellow-100 p-5 rounded-lg dark:bg-slate-800" onClick={() => setOpen2(true)}>View Document</button>
@@ -45,7 +45,7 @@ export default function Projects() {
           <li>
             <div className="w-full h-96 bg-gradient-to-r from-orange-300 to-red-300 dark:bg-gradient-to-r dark:from-zinc-700 dark:to-gray-700 rounded-xl my-12">
               <h1 className="text-xl p-8">Project 3: Proposal</h1>
-              <p className="p-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis massa dui, porttitor fringilla quam auctor nec. Curabitur elementum, ipsum quis aliquet ullamcorper, turpis lectus viverra turpis, ut mattis lorem orci sit amet justo. Nullam elementum bibendum lacus, non ullamcorper nulla interdum malesuada. Mauris justo sem, volutpat quis molestie non, auctor ut est. Pellentesque pharetra quis augue eu convallis. Aenean a scelerisque nunc. Donec nec bibendum elit. Maecenas ut tristique libero, sed molestie tellus. Donec sed diam metus.</p>
+              <p className="p-6">This project was a group assignment that had us write written proposals given a certain topic. This would be the only group-based project in the entire course, thus the importance of teamwork was paramount. This meant that as a team, we had to communicate our ideas and execute them efficiently. In regards to the assignment, formatting and research was the most practiced skill that had us doing bibliographies and formatting documents.</p>
 
 
               <button className="bg-yellow-100 p-5 rounded-lg dark:bg-slate-800" onClick={() => setOpen3(true)}>View Document</button>
